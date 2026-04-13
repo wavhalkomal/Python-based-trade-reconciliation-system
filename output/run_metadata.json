@@ -1,0 +1,18 @@
+{
+  "run_timestamp": "2026-04-13T01:07:20.805334",
+  "config": {
+    "internal_file": "/Users/komalwavhal/Desktop/Projects 2026/JPMC/JPMC_Trade_Reconciliation_Project/input/internal_trades.csv",
+    "market_file": "/Users/komalwavhal/Desktop/Projects 2026/JPMC/JPMC_Trade_Reconciliation_Project/output/market_prices.csv",
+    "output_file": "/Users/komalwavhal/Desktop/Projects 2026/JPMC/JPMC_Trade_Reconciliation_Project/output/reconciliation_detail.csv",
+    "exceptions_file": "/Users/komalwavhal/Desktop/Projects 2026/JPMC/JPMC_Trade_Reconciliation_Project/output/exceptions_detail.csv",
+    "abs_tolerance": 1.0,
+    "pct_tolerance": 1.0
+  },
+  "row_counts": {
+    "internal_rows": 20,
+    "market_rows": 10,
+    "recon_rows": 20,
+    "exception_rows": 20
+  },
+  "runtime_seconds": 0.073
+}
